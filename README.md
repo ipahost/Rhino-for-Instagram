@@ -10,7 +10,7 @@ A simple, powerful tool for Instagram
    
     | Application | Version | Rhino |
     | --- | --- | --- |
-    | [Instagram](https://mega.nz/file/cIoRGDKQ#NctMBGd3fXB1NaN_8tiUTTPl0xqk69t0XYJuD-2t3NQ) | 156.0 | 2.8 |
+    | [Instagram](https://mega.nz/file/sM5lkThI#AWarD9M6mhKIo4l8flaUEibLnWfKDvPKo6tycNEwBmI) | 158.0 | 2.9.2 |
 
         
 &nbsp;
