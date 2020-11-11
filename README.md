@@ -18,7 +18,7 @@ A simple, powerful tool for Instagram
 &nbsp;
 
 
-**Please note that Instagram v165 has quite a few issues and should only be used for devices that are incompatible with Instagram v158.0, particulary iPhone 12 Pro and iPhone 12 Pro Max. You will need to log out if you want to switch users and the app will restart if you enter the background. It's best to use v158 if you use any other device.**
+**Please note that Instagram v165 has quite a few issues and should only be used for devices that are incompatible with Instagram v158.0, particulary iPhone 12 Pro and iPhone 12 Pro Max. You will need to log out if you want to switch users and the app will restart if you enter the background. Most issues are resolved by logging out and signing back in. It's best to use v158 if you use any other device.**
 
 
 ## How to Download
