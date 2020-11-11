@@ -11,9 +11,15 @@ A simple, powerful tool for Instagram
     | Application | Version | Rhino |
     | --- | --- | --- |
     | [Instagram](https://mega.nz/file/sM5lkThI#AWarD9M6mhKIo4l8flaUEibLnWfKDvPKo6tycNEwBmI) | 158.0 | 2.9.2 |
+    | [Instagram **](https://mega.nz/file/VNJEXT4b#bY9u6Ry9UxarwG19yftSdl9GJVXlGyX3ob_qCrG-Bq8) | 165.0 | 3.0.1 |
+
 
         
 &nbsp;
+
+
+**Please note that Instagram v165 has quite a few issues and should only be used for devices that are incompatible with Instagram v158.0, particulary iPhone 12 Pro and iPhone 12 Pro Max. You will need to log out if you want to switch users and the app will restart if you enter the background. It's best to use v158 if you use any other device.**
+
 
 ## How to Download
 
