@@ -11,14 +11,24 @@ A simple, powerful tool for Instagram
     | Application | Version | Rhino |
     | --- | --- | --- |
     | [Instagram](https://mega.nz/file/sM5lkThI#AWarD9M6mhKIo4l8flaUEibLnWfKDvPKo6tycNEwBmI) | 158.0 | 2.9.2 |
-    | [Instagram **](https://mega.nz/file/VNJEXT4b#bY9u6Ry9UxarwG19yftSdl9GJVXlGyX3ob_qCrG-Bq8) | 165.0 | 3.0.1 |
+    | [Instagram **](https://mega.nz/file/tU4mkaQA#beZWwBcbBlcGXpe0_gBGDleTNEkwjQD3N9Svda24ar8) | 167.0 | 3.1.5 |
 
 
         
 &nbsp;
 
 
-**Please note that Instagram v165 has quite a few issues and should only be used for devices that are incompatible with Instagram v158.0, particulary iPhone 12 Pro and iPhone 12 Pro Max. You will need to log out if you want to switch users and the app will restart if you enter the background. Most issues are resolved by logging out and signing back in. It's best to use v158 if you use any other device.**
+## Issue
+**
+
+**Please note that Instagram v167 has issues and should only be used for devices that are incompatible with Instagram v158.0, particulary iPhone 12 Pro and iPhone 12 Pro Max.**
+
+With version 167, the user must log in again when the app is closed. **I recommend you log out and tap "Remember Login Info" to quickly log in the app.** 
+This version also prevents the action blocked error some users had in the past.
+
+<p align="center">
+  <img src="Remember.jpg" width="350">
+</p>
 
 
 ## How to Download
