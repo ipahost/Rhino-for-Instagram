@@ -10,7 +10,7 @@ A simple, powerful tool for Instagram
    
     | Application | Version | Rhino |
     | --- | --- | --- |
-    | [Instagram](https://mega.nz/file/kF5A3LqD#qaVHYYqMyFhzTgYUvqvmX_XLHVa7Mb3DF52QVUkKvkc) | 170.0 | 3.3 |
+    | [Instagram](https://mega.nz/file/UdgUxQLK#ai58edn8oNr-FSaNM53M6v135R_ZvMMoblx3wUuSqak) | 175.0 | 3.4 |
 
         
 &nbsp;
@@ -29,8 +29,4 @@ A simple, powerful tool for Instagram
 
 * In AltStore, tap the **+** button in **My Apps** and select the ipa file from your iCloud Drive 
 
-
-
-### TODO 
-A more thorough guide is needed!  
 
